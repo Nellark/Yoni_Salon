@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
   templateUrl: './shared-ui.component.html',
   styleUrl: './shared-ui.component.css'
 })
-export class SharedUIComponent {
+export class SharedUiComponent {
 
 }
